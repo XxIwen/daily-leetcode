@@ -1,3 +1,3 @@
-[中文](./README.zh-CN.md) | English
+中文 | [English](./README.EN.md)
 
-## CATALOGUE
+## 目录
