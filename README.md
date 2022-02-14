@@ -9,6 +9,8 @@
 3. [JZ31 栈的压入、弹出序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ31.md)
 4. [JZ59 滑动窗口的最大值](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ59.md)
 5. [JZ73 翻转单词序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ73.md)
+##### 1.1.2. 链表
+1. [JZ6 从尾到头打印链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-14-JZ6.md)
 #### 1.2. 算法
 ##### 1.2.1. 排序
 1. [JZ3 数组中重复的数字](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ3.md)
