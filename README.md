@@ -19,7 +19,8 @@
 ##### 2.1.2. 链表
 1. [JZ6 从尾到头打印链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-14-JZ6.md)
 2. [JZ24 反转链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-14-JZ24.md)
-2. [JZ25 合并两个排序的链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-15-JZ25.md)
+3. [JZ25 合并两个排序的链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-15-JZ25.md)
+4. [JZ52 两个链表的第一个公共结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-16-JZ52.md)
 #### 2.2. 算法
 ##### 2.2.1. 排序
 1. [JZ3 数组中重复的数字](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ3.md)
