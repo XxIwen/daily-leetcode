@@ -25,6 +25,7 @@
 6. [JZ22 链表中倒数最后k个结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-16-JZ22.md)
 7. [JZ18 删除链表的节点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-16-JZ18.md)
 8. [JZ35 复杂链表的复制](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-18-JZ35.md)
+9. [JZ76 删除链表中重复的结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-19-JZ76.md)
 #### 2.2. 算法
 ##### 2.2.1. 排序
 1. [JZ3 数组中重复的数字](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ3.md)
