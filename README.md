@@ -1,7 +1,7 @@
 中文 | [English](./README.EN.md)
 
 ## 目录
-### 1. [基础知识]
+### 1. 基础知识
 #### 1.1. 数据结构
 ##### 1.1.1. 链表
 1. 创建单向链表
@@ -28,6 +28,7 @@
 9. [JZ76 删除链表中重复的结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-19-JZ76.md)
 ##### 2.1.3. 树
 1. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
+2. [JZ77 按之字形顺序打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-22-JZ77.md)
 
 #### 2.2. 算法
 ##### 2.2.1. 排序
