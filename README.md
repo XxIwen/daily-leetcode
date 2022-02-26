@@ -29,7 +29,7 @@
 #### 2.1.3. 树
 1. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
 2. [JZ77 按之字形顺序打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-22-JZ77.md)
-3. [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-24-JZ32.md)
+3. [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ32.md)
 4. [JZ7 重建二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-25-JZ7.md)
 
 ### 2.2. 算法
