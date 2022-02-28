@@ -34,6 +34,7 @@
 5. [JZ7 重建二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-25-JZ7.md)
 6. [JZ54 二叉搜索树的第k个节点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ54.md)
 7. [JZ28 对称的二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ28.md)
+8. [JZ27 二叉树的镜像](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ27.md)
 
 ### 2.2. 算法
 #### 2.2.1. 排序
