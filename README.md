@@ -27,15 +27,16 @@
 8. [JZ35 复杂链表的复制](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-18-JZ35.md)
 9. [JZ76 删除链表中重复的结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-19-JZ76.md)
 #### 2.1.3. 树
-1. [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ32.md)
-2. [JZ78 把二叉树打印成多行](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ78.md)
-3. [JZ77 按之字形顺序打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-22-JZ77.md)
-4. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
-5. [JZ7 重建二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-25-JZ7.md)
-6. [JZ54 二叉搜索树的第k个节点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ54.md)
-7. [JZ28 对称的二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ28.md)
-8. [JZ27 二叉树的镜像](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ27.md)
-9. [JZ33 二叉搜索树的后序遍历序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ33.md)
+1.  [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ32.md)
+2.  [JZ78 把二叉树打印成多行](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ78.md)
+3.  [JZ77 按之字形顺序打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-22-JZ77.md)
+4.  [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
+5.  [JZ7 重建二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-25-JZ7.md)
+6.  [JZ54 二叉搜索树的第k个节点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ54.md)
+7.  [JZ28 对称的二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ28.md)
+8.  [JZ27 二叉树的镜像](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ27.md)
+9.  [JZ33 二叉搜索树的后序遍历序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ33.md)
+10. [JZ79 判断是不是平衡二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ79.md)
 
 ### 2.2. 算法
 #### 2.2.1. 排序
