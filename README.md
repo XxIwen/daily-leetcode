@@ -37,6 +37,7 @@
 8.  [JZ27 二叉树的镜像](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ27.md)
 9.  [JZ33 二叉搜索树的后序遍历序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ33.md)
 10. [JZ79 判断是不是平衡二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ79.md)
+11. [JZ82 二叉树中和为某一值的路径(一)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ82.md)
 
 ### 2.2. 算法
 #### 2.2.1. 排序
