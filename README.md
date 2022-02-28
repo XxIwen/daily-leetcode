@@ -42,6 +42,7 @@
 #### 3.1.1. 二叉树
 1. [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-24-JZ32.md)
 2. [JZ78 把二叉树打印成多行](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ78.md)
+3. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
 #### 3.1.2. 链表
 #### 3.1.3. 数组
 #### 3.1.4. 堆
@@ -57,6 +58,7 @@
 1. [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-24-JZ32.md)
 2. [JZ78 把二叉树打印成多行](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ78.md)
 #### 3.2.6. 深度优先搜索(DFS)
+1. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
 #### 3.2.7. 递归和循环
 #### 3.2.8. 回溯算法
 #### 3.2.9. 动态规划
