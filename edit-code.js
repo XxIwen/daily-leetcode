@@ -1,44 +1,38 @@
-/*
- * function TreeNode(x) {
- *   this.val = x;
- *   this.left = null;
- *   this.right = null;
- * }
- */
-/**
- * 代码中的类名、方法名、参数名已经指定，请勿修改，直接返回方法规定的值即可
- *
- *
- * @param root TreeNode类
- * @param sum int整型
- * @return int整型
- */
-var result = 0;
-function FindPath(root, sum) {
+/* function TreeNode(x) {
+    this.val = x;
+    this.left = null;
+    this.right = null;
+} */
+function Serialize(pRoot, arr = []) {
   // write code here
-  if (!root) return 0;
-  path(root, sum);
-  FindPath(root.left, sum);
-  FindPath(root.right, sum);
-  return result;
+  if (!pRoot) {
+    arr.push("#");
+  } else {
+    arr.push(pRoot.val);
+    Serialize(pRoot.left, arr);
+    Serialize(pRoot.right, arr);
+  }
+
+  return arr.join(",");
+}
+function Deserialize(s) {
+  // write code here
+  if (!s) return "";
+  return deserialize(s.split(","));
 }
 
-function path(node, sum) {
-  sum -= node.val;
-
-  if (sum === 0) {
-    result++;
+function deserialize(arr) {
+  var node = null;
+  var val = arr.shift();
+  if (val !== "#") {
+    node = { val: val };
+    node.left = deserialize(arr);
+    node.right = deserialize(arr);
   }
 
-  if (node.left) {
-    path(node.left, sum);
-  }
-
-  if (node.right) {
-    path(node.right, sum);
-  }
+  return node;
 }
-
 module.exports = {
-  FindPath: FindPath,
+  Serialize: Serialize,
+  Deserialize: Deserialize,
 };
