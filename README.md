@@ -41,6 +41,7 @@
 12. [JZ34 二叉树中和为某一值的路径(二)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ34.md)
 13. [JZ84 二叉树中和为某一值的路径(三)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ84.md)
 14. [JZ36 二叉搜索树与双向链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ36.md)
+15. [JZ37 序列化二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-01-JZ37.md)
 
 ### 2.2. 算法
 #### 2.2.1. 排序
