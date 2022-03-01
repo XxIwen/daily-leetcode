@@ -13,38 +13,29 @@
  * @param sum int整型
  * @return int整型
  */
+var result = 0;
 function FindPath(root, sum) {
   // write code here
-  var result = [];
-  if (root) {
-    calculatePath(root, sum, result);
-  }
-  return result.length;
+  if (!root) return 0;
+  path(root, sum);
+  FindPath(root.left, sum);
+  FindPath(root.right, sum);
+  return result;
 }
 
-function calculatePath(node, sum, result) {
-  path(node, 0, sum, result);
-  if (node.left) {
-    calculatePath(node.left, sum, result);
-  }
-  if (node.right) {
-    calculatePath(node.right, sum, result);
-  }
-}
+function path(node, sum) {
+  sum -= node.val;
 
-function path(node, total, sum, result) {
-  total += node.val;
-
-  if (total === sum) {
-    result.push(total);
+  if (sum === 0) {
+    result++;
   }
 
   if (node.left) {
-    path(node.left, total, sum, result);
+    path(node.left, sum);
   }
 
   if (node.right) {
-    path(node.right, total, sum, result);
+    path(node.right, sum);
   }
 }
 
