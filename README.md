@@ -57,8 +57,10 @@
 3. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
 #### 3.1.2. 链表
 #### 3.1.3. 数组
+- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
 #### 3.1.4. 堆
 #### 3.1.5. 哈希表
+- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
 #### 3.1.6. 栈和队列
 #### 3.1.7. 字符串
 ### 3.2. 算法
@@ -76,3 +78,6 @@
 #### 3.2.9. 动态规划
 #### 3.2.10. 贪心算法
 ### 3.3. JavaScript常用技巧
+### 4. Leetcode
+#### 4.1. 数组
+- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
