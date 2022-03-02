@@ -67,6 +67,10 @@
 
 1. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
 
+#### 2.2.3. 回溯算法
+
+1. [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
+
 ## 3. [Awesome Coding](https://www.nowcoder.com/ta/coding-interviews)
 
 ### 3.1. 数据结构
