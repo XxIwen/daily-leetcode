@@ -63,6 +63,7 @@
 - [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
 #### 3.1.6. 栈和队列
 #### 3.1.7. 字符串
+1. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
 ### 3.2. 算法
 #### 3.2.1. 排序
 #### 3.2.2. 分治
@@ -75,6 +76,8 @@
 1. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
 #### 3.2.7. 递归和循环
 #### 3.2.8. 回溯算法
+1. [JZ34 二叉树中和为某一值的路径(二)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ34.md)
+2. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
 #### 3.2.9. 动态规划
 #### 3.2.10. 贪心算法
 ### 3.3. JavaScript常用技巧
