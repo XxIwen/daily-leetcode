@@ -70,6 +70,7 @@
 #### 2.2.3. 回溯算法
 
 1. [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
+2. [JZ13 机器人的运动范围](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ13.md)
 
 ## 3. [Awesome Coding](https://www.nowcoder.com/ta/coding-interviews)
 
@@ -125,6 +126,7 @@
 1. [JZ34 二叉树中和为某一值的路径(二)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ34.md)
 2. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
 3. [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
+4. [JZ13 机器人的运动范围](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ13.md)
 
 #### 3.2.9. 动态规划
 
