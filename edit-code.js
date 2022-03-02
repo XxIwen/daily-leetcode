@@ -1,27 +1,14 @@
-function Permutation(str) {
+/**
+ * 代码中的类名、方法名、参数名已经指定，请勿修改，直接返回方法规定的值即可
+ *
+ *
+ * @param matrix char字符型二维数组
+ * @param word string字符串
+ * @return bool布尔型
+ */
+function hasPath(matrix, word) {
   // write code here
-  var result = [];
-  if (str) {
-    var queue = str.split("");
-    core(queue, result);
-  }
-  result.sort();
-  return [...new Set(result)];
-}
-
-function core(queue, result, temp = "", current = "") {
-  current += temp;
-  if (queue.length == 0) {
-    result.push(current);
-    return;
-  }
-
-  for (var i = 0; i < queue.length; i++) {
-    temp = queue.shift();
-    core(queue, result, temp, current);
-    queue.push(temp);
-  }
 }
 module.exports = {
-  Permutation: Permutation,
+  hasPath: hasPath,
 };

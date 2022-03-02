@@ -120,6 +120,7 @@
 
 1. [JZ34 二叉树中和为某一值的路径(二)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ34.md)
 2. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
+3. [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
 
 #### 3.2.9. 动态规划
 
