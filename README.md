@@ -78,6 +78,6 @@
 #### 3.2.9. 动态规划
 #### 3.2.10. 贪心算法
 ### 3.3. JavaScript常用技巧
-### 4. Leetcode
+### 4. [力扣](https://leetcode-cn.com/)
 #### 4.1. 数组
 - [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
