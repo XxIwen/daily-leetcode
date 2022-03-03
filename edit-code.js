@@ -1,7 +1,8 @@
 /**
- * @param {number[]} prices
+ * @param {number[]} g
+ * @param {number[]} s
  * @return {number}
  */
- var maxProfit = function(prices) {
+ var findContentChildren = function(g, s) {
 
 };

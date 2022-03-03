@@ -96,13 +96,13 @@
 
 #### 3.1.3. 数组
 
-- [两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
 
 #### 3.1.4. 堆
 
 #### 3.1.5. 哈希表
 
-- [两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
 - [JZ75 字符流中第一个不重复的字符](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-03-JZ75.md)
 
 #### 3.1.6. 栈和队列
@@ -155,4 +155,6 @@
 - [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
 #### 动态规划
 - [122. 买卖股票的最佳时机 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-03-122.md)
+#### 贪心算法
 - [714. 买卖股票的最佳时机含手续费](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-03-714.md)
+- [455. 分发饼干](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-03-455.md)
