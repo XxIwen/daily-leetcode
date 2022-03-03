@@ -143,11 +143,16 @@
 #### 3.2.9. 动态规划
 
 #### 3.2.10. 贪心算法
+- [122. 买卖股票的最佳时机 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-03-122.md)
+- [714. 买卖股票的最佳时机含手续费](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-03-714.md)
 
 ### 3.3. JavaScript 常用技巧
 
 ### 4. [力扣](https://leetcode-cn.com/)
 
-#### 4.1. 数组
+#### 数组
 
-- [两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+#### 动态规划
+- [122. 买卖股票的最佳时机 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-03-122.md)
+- [714. 买卖股票的最佳时机含手续费](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-03-714.md)
