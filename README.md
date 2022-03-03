@@ -59,18 +59,28 @@
 
 ### 2.2. 算法
 
-#### 2.2.1. 排序
-
-1. [JZ3 数组中重复的数字](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ3.md)
-
-#### 2.2.2. 搜索算法
+#### 2.2.1. 搜索算法
 
 1. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
+
+#### 2.2.2. 动态规划
 
 #### 2.2.3. 回溯算法
 
 1. [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
 2. [JZ13 机器人的运动范围](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ13.md)
+
+#### 2.2.4. 排序
+
+1. [JZ3 数组中重复的数字](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ3.md)
+
+#### 2.2.5. 位运算
+
+#### 2.2.6. 模拟
+
+#### 2.2.7. 其他算法
+
+1. [JZ75 字符流中第一个不重复的字符](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-03-JZ75.md)
 
 ## 3. [Awesome Coding](https://www.nowcoder.com/ta/coding-interviews)
 
@@ -78,27 +88,29 @@
 
 #### 3.1.1. 二叉树
 
-1. [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-24-JZ32.md)
-2. [JZ78 把二叉树打印成多行](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ78.md)
-3. [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
+- [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-24-JZ32.md)
+- [JZ78 把二叉树打印成多行](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ78.md)
+- [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
 
 #### 3.1.2. 链表
 
 #### 3.1.3. 数组
 
-- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+- [两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
 
 #### 3.1.4. 堆
 
 #### 3.1.5. 哈希表
 
-- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+- [两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+- [JZ75 字符流中第一个不重复的字符](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-03-JZ75.md)
 
 #### 3.1.6. 栈和队列
 
 #### 3.1.7. 字符串
 
-1. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
+- [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
+- [JZ75 字符流中第一个不重复的字符](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-03-JZ75.md)
 
 ### 3.2. 算法
 
@@ -138,4 +150,4 @@
 
 #### 4.1. 数组
 
-- [1. 两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
+- [两数之和](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/array/2022-03-02-001.md)
