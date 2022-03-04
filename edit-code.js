@@ -1,6 +1,8 @@
 /**
- * @param {number[]} coins
  * @param {number} amount
+ * @param {number[]} coins
  * @return {number}
  */
-var coinChange = function (coins, amount) {};
+var change = function (amount, coins) {
+
+};
