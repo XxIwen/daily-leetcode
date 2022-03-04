@@ -1,19 +1,14 @@
 /**
  * @param {number[]} prices
- * @param {number} fee
  * @return {number}
  */
-var maxProfit = function (prices, fee) {
-  var buy = prices[0] + fee;
+var maxProfit = function (prices) {
   var profit = 0;
-  for (var i = 1; i < prices.length; i++) {
-    if (prices[i] + fee < buy) {
-      buy = prices[i] + fee;
-    } else if (prices[i] > buy) {
-      profit += prices[i] - buy;
-      buy = prices[i];
+  for (var i = 0; i < prices.length - 1; i++) {
+    if (prices[i+1] > prices[i]) {
+      profit += prices[i+1] - prices[i];
     }
+    // profit += Math.max(0, prices[i+1] - prices[i]);
   }
-
   return profit;
 };
