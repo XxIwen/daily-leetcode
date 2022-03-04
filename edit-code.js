@@ -1,21 +1,19 @@
 /**
- * @param {number[]} g
- * @param {number[]} s
+ * @param {number[]} prices
+ * @param {number} fee
  * @return {number}
  */
-var findContentChildren = function (g, s) {
-  var g = g.sort((a, b) => a - b);
-  var s = s.sort((a, b) => a - b);
-  var sum = 0;
-  var cookie = 0;
-  var child = 0;
-  while (cookie < s.length && child < g.length) {
-    if (s[cookie] >= g[child]) {
-      sum++;
-      child++;
+var maxProfit = function (prices, fee) {
+  var buy = prices[0] + fee;
+  var profit = 0;
+  for (var i = 1; i < prices.length; i++) {
+    if (prices[i] + fee < buy) {
+      buy = prices[i] + fee;
+    } else if (prices[i] > buy) {
+      profit += prices[i] - buy;
+      buy = prices[i];
     }
-    cookie++;
   }
 
-  return sum;
+  return profit;
 };
