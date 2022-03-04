@@ -1,20 +1,16 @@
 /**
- * @param {number[]} coins
  * @param {number} amount
+ * @param {number[]} coins
  * @return {number}
  */
-var coinChange = function (coins, amount) {
-  if (!amount) return 0;
-  var dp = new Array(amount + 1).fill(Infinity);
-
-  dp[0] = 0;
-  for (var j = 0; j <= amount; j++) {
-    for (var i = 0; i < coins.length; i++) {
-      if (j >= coins[i]) {
-        dp[j] = Math.min(dp[j], dp[j-coins[i]] + 1);
-      }
+var change = function (amount, coins) {
+  var dp = new Array(amount + 1).fill(0);
+  dp[0] = 1;
+  for (var i = 0; i < coins.length; i++) {
+    for (var j = coins[i]; j <= amount; j++) {
+      dp[j] += dp[j - coins[i]];
     }
   }
 
-  return dp[amount] == Infinity ? -1 : dp[amount];
+  return dp[amount];
 };
