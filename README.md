@@ -166,6 +166,7 @@
 - [714. 买卖股票的最佳时机含手续费](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-03-714.md)
 - [322. 零钱兑换](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-04-322.md)
 - [518. 零钱兑换 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-04-518.md)
+- [198. 打家劫舍](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-07-198.md)
 
 #### 贪心算法
 
