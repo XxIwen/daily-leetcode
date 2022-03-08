@@ -3,20 +3,20 @@
  * @return {number}
  */
 var rob = function (nums) {
-  if (nums.length == 0) {
-    return 0;
+  if (nums.length == 0) return 0;
+  if (nums.length == 1) return nums[0];
+  if (nums.length == 2) return Math.max(nums[0], nums[1]);
+  return Math.max(robRang(nums, 1, nums.length - 1), robRang(nums, 0, nums.length - 2));
+};
+
+var robRang = function (nums, start, end) {
+  var first = nums[start];
+  var second = Math.max(nums[start], nums[start + 1]);
+  for (var i = start + 2; i <= end; i++) {
+    var temp = second;
+    second = Math.max(first + nums[i], second);
+    first = temp;
   }
 
-  if (nums.length == 1) {
-    return nums[0];
-  }
-
-  var dp = new Array(nums.length).fill(0);
-  dp[0] = nums[0];
-  dp[1] = Math.max(nums[0], nums[1]);
-  for (var i = 2; i < nums.length; i++) {
-    dp[i] = Math.max(dp[i - 2] + nums[i], dp[i - 1]);
-  }
-
-  return dp[nums.length - 1];
+  return second;
 };
