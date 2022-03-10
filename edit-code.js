@@ -1,22 +1,16 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
-var rob = function (nums) {
-  if (nums.length == 0) return 0;
-  if (nums.length == 1) return nums[0];
-  if (nums.length == 2) return Math.max(nums[0], nums[1]);
-  return Math.max(robRang(nums, 1, nums.length - 1), robRang(nums, 0, nums.length - 2));
-};
-
-var robRang = function (nums, start, end) {
-  var first = nums[start];
-  var second = Math.max(nums[start], nums[start + 1]);
-  for (var i = start + 2; i <= end; i++) {
-    var temp = second;
-    second = Math.max(first + nums[i], second);
-    first = temp;
+function bubbleSort(array) {
+  for (let j = 0; j < array.length; j++) {
+    let complete = true;
+    for (let i = 0; i < array.legnth - 1 - j; i++) {
+      if (array[i] > arrya[i + 1]) {
+        [array[i], array[i + 1]] = [array[i + 1], array[i]];
+        complete = false;
+      }
+    }
+    if (complete) {
+      break;
+    }
   }
 
-  return second;
-};
+  return array;
+}
