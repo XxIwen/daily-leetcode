@@ -151,6 +151,7 @@
 - [518. 零钱兑换 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-04-518.md)
 
 ### 3.3. JavaScript 常用技巧
+- [手动实现call、apply、bind]()
 
 ### 4. [力扣](https://leetcode-cn.com/)
 
