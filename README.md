@@ -118,6 +118,7 @@
 - [冒泡排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/bubble-sort.md)
 - [插入排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/insert-sort.md)
 - [归并排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/merge-sort.md)
+- [选择排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/selection-sort.md)
 #### 3.2.2. 分治
 
 #### 3.2.3. 数学运算
