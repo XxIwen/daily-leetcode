@@ -115,10 +115,11 @@
 ### 3.2. 算法
 
 #### 3.2.1. 排序
-- [冒泡排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/bubble-sort.md)
-- [插入排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/insert-sort.md)
-- [归并排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/merge-sort.md)
-- [选择排序](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/selection-sort.md)
+- [冒泡排序 **](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/bubble-sort.md)
+- [插入排序 **](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/insert-sort.md)
+- [选择排序 **](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/selection-sort.md)
+- [归并排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/merge-sort.md)
+- [快速排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/quick-sort.md)
 #### 3.2.2. 分治
 
 #### 3.2.3. 数学运算
