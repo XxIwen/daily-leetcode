@@ -1,15 +1,27 @@
-function insertSort(array) {
-  for (let i = 1; i < array.length; i++) {
-    let target = i;
-    for (let j = i - 1; j >= 0; j--) {
-      if (array[target] < array[j]) {
-        [array[j], array[target]] = [array[target], array[i]];
-        target = j;
-      } else {
-        break;
-      }
+function mergeSort(array) {
+  if (array.length < 2) return array;
+  const mid = Math.floor(array.length / 2);
+  const front = array.slice(0, mid);
+  const end = array.slice(mid);
+
+  return merge(mergeSort(front), mergeSort(end));
+}
+
+function merge(front, end) {
+  const temp = [];
+  while(front.length && end.length) {
+    if (front[0] < end[0]) {
+      temp.push(front.shift());
+    } else {
+      temp.push(end.shift());
     }
   }
 
-  return array;
+  while(front.length) {
+    temp.push(front.shift())
+  }
+  while(end.length) {
+    temp.push(end.shift());
+  }
+  return temp;
 }
