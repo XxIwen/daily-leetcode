@@ -1,11 +1,15 @@
-function selectionSort(array) {
-  for (let i = 0; i < array.length; i++) {
-    let minIndex = i;
-    for (let j = i + 1; j < array.length; j++) {
-      if (array[j] < array[minIndex]) {
-        minIndex = j;
-      }
+function quickSort(array) {
+  if (array.length < 2) return array;
+  const target = array[0];
+  const left = [];
+  const right = [];
+  for (let i = 1; i < array.length; i++) {
+    if (array[i] < target) {
+      left.push(array[i]);
+    } else {
+      right.push(array[i]);
     }
-    [array[minIndex], array[i]] = [array[i], array[minIndex]];
   }
+
+  return quickSort(left).concat([target], quickSort(right));
 }
