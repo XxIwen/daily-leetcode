@@ -1,3 +1,14 @@
+## 思想
+
+- 创建一个大顶堆，大顶堆的堆顶一定是最大的元素。
+
+- 交换第一个元素和最后一个元素，让剩余的元素继续调整为大顶堆。
+
+- 从后往前以此和第一个元素交换并重新构建，排序完成。
+
+## 解法
+
+```js
 function heapSort(array) {
   createMaxHeap(array);
   console.log(array);
@@ -30,6 +41,17 @@ function createMaxHeap(array) {
   }
 }
 
-let arr = [11, 09, 10, 13, 14, 08, 16, 02, 05, 12, 06, 03, 07, 04, 01, 15];
-const result = heapSort(arr);
-console.log(result);
+// let arr = [11, 09, 10, 13, 14, 08, 16, 02, 05, 12, 06, 03, 07, 04, 01, 15];
+// const result = heapSort(arr);
+// console.log(result);
+```
+
+## 复杂度
+
+时间复杂度：O(nlogn)
+
+空间复杂度:O(1)
+
+## 稳定性
+
+不稳定

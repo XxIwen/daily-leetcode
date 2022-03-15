@@ -120,6 +120,7 @@
 - [选择排序 **](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/selection-sort.md)
 - [归并排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/merge-sort.md)
 - [快速排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/quick-sort.md)
+- [堆排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/heap-sort.md)
 #### 3.2.2. 分治
 
 #### 3.2.3. 数学运算
