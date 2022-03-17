@@ -88,11 +88,34 @@
 
 #### 3.1.1. 二叉树
 
+- [JZ7 重建二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-25-JZ7.md)
+  - [求二叉树的遍历](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-25-JZ7.md)
+- [JZ28 对称的二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ28.md)
+- [JZ27 二叉树的镜像](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ27.md)
+- [JZ54 二叉搜索树的第 k 个节点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ54.md)
+- [JZ33 二叉搜索树的后序遍历序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ33.md)
+- [JZ55 二叉树的最大深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
+- [JZ79 判断是不是平衡二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ79.md)
 - [JZ32 从上往下打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-24-JZ32.md)
 - [JZ78 把二叉树打印成多行](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-26-JZ78.md)
-- [JZ55 二叉树的深度](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-21-JZ55.md)
+- [JZ77 按之字形顺序打印二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-22-JZ77.md)
+- [JZ34 二叉树中和为某一值的路径(二)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ34.md)
+- [JZ36 二叉搜索树与双向链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ36.md)
+- [JZ37 序列化二叉树](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-01-JZ37.md)
+- [JZ8 二叉树的下一个结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-01-JZ8.md)
+- [JZ26 树的子结构](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-01-JZ26.md)
 
 #### 3.1.2. 链表
+
+- [JZ18 删除链表的节点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-16-JZ18.md)
+- [JZ76 删除链表中重复的结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-19-JZ76.md)
+- [JZ6 从尾到头打印链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-14-JZ6.md)
+- [JZ22 链表中倒数最后 k 个结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-16-JZ22.md)
+- [JZ24 反转链表](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-14-JZ24.md)
+- [JZ35 复杂链表的复制](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-18-JZ35.md)
+- [JZ52 两个链表的第一个公共结点](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-16-JZ52.md)
+- [JZ23 链表中环的入口结点 - ?](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-16-JZ23.md)
+- 圈圈中最后剩下的数字
 
 #### 3.1.3. 数组
 
@@ -107,20 +130,31 @@
 
 #### 3.1.6. 栈和队列
 
+- [JZ9 用两个栈实现队列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ9.md)
+- [JZ30 包含 min 函数的栈](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ30.md)
+- [JZ31 栈的压入、弹出序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ31.md)
+- [JZ59 滑动窗口的最大值](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ59.md)
+
 #### 3.1.7. 字符串
 
-- [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
+- 替换空格
+- 表示数值的字符串
 - [JZ75 字符流中第一个不重复的字符](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-03-JZ75.md)
+- [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
+- 字符串翻转
+- 正则表达式匹配
 
 ### 3.2. 算法
 
 #### 3.2.1. 排序
-- [冒泡排序 **](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/bubble-sort.md)
-- [插入排序 **](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/insert-sort.md)
-- [选择排序 **](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/selection-sort.md)
-- [归并排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/merge-sort.md)
-- [快速排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/quick-sort.md)
-- [堆排序 ***](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/heap-sort.md)
+
+- [冒泡排序 \*\*](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/bubble-sort.md)
+- [插入排序 \*\*](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/insert-sort.md)
+- [选择排序 \*\*](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/selection-sort.md)
+- [归并排序 \*\*\*](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/merge-sort.md)
+- [快速排序 \*\*\*](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/quick-sort.md)
+- [堆排序 \*\*\*](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/algorithm/sort-algorithm/heap-sort.md)
+
 #### 3.2.2. 分治
 
 #### 3.2.3. 数学运算
@@ -140,12 +174,35 @@
 
 #### 3.2.8. 回溯算法
 
-1. [JZ34 二叉树中和为某一值的路径(二)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ34.md)
-2. [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
-3. [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
-4. [JZ13 机器人的运动范围](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ13.md)
+- [JZ34 二叉树中和为某一值的路径(二)](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-02-28-JZ34.md)
+- [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
+- [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
+- [JZ13 机器人的运动范围](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ13.md)
+- N皇后问题
+- N皇后问题2
 
 #### 3.2.9. 动态规划
+
+**路径问题**
+
+- 最小路径和
+- 不同路径
+- 不同路径 II
+- 形成字符串的最短路径
+
+**买卖股票类问题**
+
+- [121. 买卖股票的最佳时机](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-06-121.md)
+- [123. 买卖股票的最佳时机 III](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-06-123.md)
+- [198. 打家劫舍](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-07-198.md)
+- [213. 打家劫舍 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/dynamic-programming/2022-03-07-213.md)
+
+**子序列问题**
+
+- 不同的子序列
+- 乘积最大子序列
+- 最长上升子序列
+- 最长回文子序列
 
 #### 3.2.10. 贪心算法
 
@@ -156,8 +213,9 @@
 - [518. 零钱兑换 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-04-518.md)
 
 ### 3.3. JavaScript 常用技巧
-- [手动实现call、apply、bind](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/call-applay-bind.js)
-- [手动实现ES5继承](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/es5-inherit.md)
+
+- [手动实现 call、apply、bind](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/call-applay-bind.js)
+- [手动实现 ES5 继承](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/es5-inherit.md)
 
 ### 4. [力扣](https://leetcode-cn.com/)
 
