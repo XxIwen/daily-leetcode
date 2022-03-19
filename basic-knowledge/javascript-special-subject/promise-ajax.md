@@ -1,3 +1,8 @@
+## 基于 Promise 的 ajax 封装
+
+- 参数简陋封装
+
+```js
 function ajax(url, method = "get", param = {}) {
   return new Promise(function (resolve, reject) {
     const xhr = new XMLHttpRequest();
@@ -53,3 +58,4 @@ function getStringParam() {
   }
   return result;
 }
+```
