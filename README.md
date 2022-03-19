@@ -220,6 +220,13 @@
 - [单例模式](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/singleton.md)
 - [数组乱序-洗牌算法](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/disorder.md)
 - [函数柯里化](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/currying.md)
+- [数组操作](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/array-operation.md)
+  - 使用reduce实现map
+  - 使用reduce实现filter
+  - 去重
+  - 排序
+  - 扁平
+  - 最值
 
 
 ### 4. [力扣](https://leetcode-cn.com/)
