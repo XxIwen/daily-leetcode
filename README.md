@@ -178,8 +178,8 @@
 - [JZ38 字符串的排列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/awesome-coding-js/2022-03-02-JZ38.md)
 - [JZ12 矩阵中的路径](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ12.md)
 - [JZ13 机器人的运动范围](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-03-02-JZ13.md)
-- N皇后问题
-- N皇后问题2
+- N 皇后问题
+- N 皇后问题 2
 
 #### 3.2.9. 动态规划
 
@@ -221,13 +221,21 @@
 - [数组乱序-洗牌算法](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/disorder.md)
 - [函数柯里化](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/currying.md)
 - [数组操作](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/array-operation.md)
-  - 使用reduce实现map
-  - 使用reduce实现filter
+  - 使用 reduce 实现 map
+  - 使用 reduce 实现 filter
   - 去重
   - 排序
   - 扁平
   - 最值
-
+- [防抖](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/debounce.md)
+- 节流
+- 异步循环打印
+- 基于Promise的ajax封装
+- 手动实现JSONP
+- 图片懒加载
+- 模拟实现Promise
+- EventEmitter
+- 浅拷贝和深拷贝
 
 ### 4. [力扣](https://leetcode-cn.com/)
 
