@@ -217,6 +217,7 @@
 - [手动实现 call、apply、bind](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/call-applay-bind.js)
 - [手动实现 ES5 继承](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/es5-inherit.md)
 - [手动实现 instanceof](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/instanceof.md)
+- [单例模式](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/singleton.md)
 
 ### 4. [力扣](https://leetcode-cn.com/)
 
