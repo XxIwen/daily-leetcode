@@ -228,7 +228,7 @@
   - 扁平
   - 最值
 - [防抖](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/debounce.md)
-- 节流
+- [节流](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/throttle.md)
 - 异步循环打印
 - 基于Promise的ajax封装
 - 手动实现JSONP

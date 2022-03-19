@@ -35,10 +35,10 @@ debounce(validator, 1000);
 ```js
 function debounce(handler, time) {
   let timer = null;
-  return function (event) {
+  return function (...args) {
     clearTimeout(timer);
     timer = setTimeout(() => {
-      handler.apply(this, event);
+      handler.apply(this, args);
     }, time);
   };
 }
