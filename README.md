@@ -218,6 +218,9 @@
 - [手动实现 ES5 继承](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/es5-inherit.md)
 - [手动实现 instanceof](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/instanceof.md)
 - [单例模式](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/singleton.md)
+- [数组乱序-洗牌算法](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/disorder.md)
+- [函数柯里化](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/currying.md)
+
 
 ### 4. [力扣](https://leetcode-cn.com/)
 
