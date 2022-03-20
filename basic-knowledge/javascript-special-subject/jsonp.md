@@ -58,7 +58,7 @@
 
 ```js
 // create jsonp function
-+(function (window, document) {
+(function (window, document) {
   // implement function to create jsonp
   const jsonp = function (url, data, callback) {
     let dataString = url.indexOf("?") == -1 ? "?" : "&";
@@ -86,7 +86,7 @@
 })(window, document);
 
 // invoke jsonp function
-+(function (window, document) {
+(function (window, document) {
   function callbackFunction(result, methodName) {
     var html = "<ul>";
     for (var i = 0; i < result.length; i++) {
@@ -101,3 +101,4 @@
   window.$jsonp(url, null, callbackFunction);
 })(window, document);
 ```
+[jsonp.html](./assets/jsonp.html)
