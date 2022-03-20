@@ -230,8 +230,8 @@
 - [防抖](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/debounce.md)
 - [节流](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/throttle.md)
 - [异步循环打印](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/async-loop-print.md)
-- 基于Promise的ajax封装
-- 手动实现JSONP
+- [基于Promise的ajax封装](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/promise-ajax.md)
+- [手动实现JSONP](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/jsonp.md)
 - 图片懒加载
 - 模拟实现Promise
 - EventEmitter
