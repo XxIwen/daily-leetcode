@@ -1,19 +1,26 @@
-(function () {
-  const imgs = document.getElementsByTagName("img");
-
-  const handler = new IntersectionObserver(function (entries, observer) {
-    entries.forEach(function (entry) {
-      const imgElement = entry.target;
-      if (imgElement.intersectionRatio > 0) {
-        if (imgElement.getAttribute("src") == "loading.gif") {
-          imgElement.src = imgElement.getAttribute("data-src");
-          handler.unobserve(imgElement);
-        }
-      }
-    });
+const sleep = function (time, i) {
+  return new Promise(function (resolve, reject) {
+    setTimeout(function () {
+      resolve(i);
+    }, time);
   });
+};
 
-  for (let i = 0; i < imgs.length; i++) {
-    handler.observe(imgs[i]);
+const start = function (x) {
+  let head = Promise.resolve(x);
+  for (let i = 0; i < 6; i++) {
+    const func = (val) => {
+      if (val !== -1) {
+        console.log(val);
+      }
+      return sleep(1000, i);
+    };
+    head = head.then(func);
   }
-})();
+
+  head.then((val) => {
+    console.log(val);
+  });
+};
+
+start(-1);
