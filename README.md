@@ -234,7 +234,7 @@
 - [手动实现 JSONP](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/jsonp.md)
 - [图片懒加载](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/image-lazy-load.md)
 - [模拟实现 Promise](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/promise.md)
-- EventEmitter
+- [EventEmitter](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/event-emitter.md)
 - 浅拷贝和深拷贝
 
 ### 4. [力扣](https://leetcode-cn.com/)
