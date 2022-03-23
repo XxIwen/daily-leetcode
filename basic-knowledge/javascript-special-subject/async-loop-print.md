@@ -1,5 +1,5 @@
 ## 使用 promise + async await 实现异步循环打印
-
+> 在 ECMAScript 2017 标准中, 时序组合可以通过使用 async/await 而变得更简单
 `````js
 // 使用async...await时序运行多个异步操作
 const sleep = function (time, i) {
