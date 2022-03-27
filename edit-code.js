@@ -1,68 +1,136 @@
-function EventEmitter() {
-  this._maxListeners = 10;
-  this._events = Object.create(null);
-}
-
-EventEmitter.prototype.addListener = function (type, listener, prepend) {
-  if (this._events[type]) {
-    if (!!prepend) {
-      this._events[type].unshift(listener);
-    } else {
-      this._events[type].push(listener);
+(function () {
+  // 浅拷贝Object
+  function clone(target) {
+    const result = {};
+    for (let key in target) {
+      result[key] = target[key];
     }
-  } else {
-    this._events[type] = [listener];
-  }
-};
 
-EventEmitter.prototype.removeListener = function (type, listener) {
-  if (Array.isArray(this._events[type])) {
-    if (!listener) {
-      delete this._events[type];
+    return result;
+  }
+})();
+
+(function () {
+  // 深拷贝原始类型和Object
+  function clone(target) {
+    const isObject = target !== null && typeof target === "object";
+    if (isObject) {
+      const cloneTarget = {};
+      for (let key in target) {
+        cloneTarget[key] = clone(target[key]);
+      }
+      return cloneTarget;
     } else {
-      this._events[type] = this._events[type].filter(
-        (e) => e !== listener && e.origin !== listener
-      );
+      return target;
     }
   }
-};
 
-EventEmitter.prototype.once = function (type, listener) {
-  const only = (...args) => {
-    listener.apply(this, args);
-    this.removeListener(type, listener);
+})();
+
+(function () {
+  // 深拷贝原始类型, Object, Array
+  function clone(target) {
+    const isObject = target !== null && typeof target === "object";
+    if (isObject) {
+      const cloneTarget = Array.isArray(target) ? [] : {};
+      for (let key in target) {
+        cloneTarget[key] = clone(target[key]);
+      }
+      return cloneTarget;
+    } else {
+      return target;
+    }
+  }
+
+})();
+
+(function () {
+  function clone(target, map = new Map()) {
+    const isObject = target !== null && typeof target === 'object';
+    if (map.has(target)) {
+      return map.get(target);
+    }
+    if (isObject) {
+      const cloneTarget = Array.isArray(target) ? [] : {};
+      map.set(target, cloneTarget);
+      for (let key in target) {
+        cloneTarget[key] = clone(target[key], map);
+      }
+      return cloneTarget;
+    } else {
+      return target;
+    }
+  }
+
+})();
+(function () {
+  function forEach(target, fn) {
+    let index = 0;
+    while(index++ < target.length) {
+      fn(target[index - 1], index - 1);
+    }
   };
-  only.origin = listener;
-  this.addListener(type, only);
-};
 
-EventEmitter.prototype.emit = function (type, ...args) {
-  if (Array.isArray(this._events[type])) {
-    this._events[type].forEach((fn) => {
-      fn.apply(this, args);
-    });
+  function clone1(target, map = new Map()) {
+    const isObject = target !== null && typeof target === 'object';
+    if (map.has(target)) {
+      return map.get(target);
+    }
+    if (isObject) {
+      const cloneTarget = Array.isArray(target) ? [] : {};
+      map.set(target, cloneTarget);
+      for (let key in target) {
+        cloneTarget[key] = clone1(target[key], map);
+      }
+      return cloneTarget;
+    } else {
+      return target;
+    }
   }
-};
 
-EventEmitter.prototype.setMaxListener = function (count) {
-  this._maxListeners = count;
-};
+  function clone2(target, map = new Map()) {
+    const isObject = target !== null && typeof target === 'object';
+    if (map.has(target)) {
+      return map.get(target);
+    }
+    if (isObject) {
+      const isArray = Array.isArray(target)
+      const cloneTarget = isArray ? [] : {};
+      const keys = isArray ? target : Object.keys(target);
+      map.set(target, cloneTarget);
+      forEach(target, function (value, key) {
+        if (!isArray) {
+          key = value;
+        }
+        cloneTarget[key] = clone2(target[key], map);
+      })
+      return cloneTarget;
+    } else {
+      return target;
+    }
+  }
 
-var emitter = new EventEmitter();
+  const target = {
+    field1: 1,
+    field2: undefined,
+    field3: {
+      child: "child",
+    },
+    field4: [2, 4, 8],
+    f: {
+      f: { f: { f: { f: { f: { f: { f: { f: { f: { f: { f: {} } } } } } } } } } },
+    },
+  };
 
-var onceListener = function (args) {
-  console.log("我只能被执行一次", args, this);
-};
+  target.target = target;
 
-var listener = function (args) {
-  console.log("我是一个listener", args, this);
-};
+  console.time();
+  const result = clone1(target);
+  console.timeEnd();
 
-emitter.once("click", onceListener);
-emitter.addListener("click", listener);
-
-emitter.emit("click", "参数");
-emitter.emit("click");
-
-emitter.removeListener("click", listener);
-emitter.emit("click");
+  console.time();
+  const result2 = clone2(target);
+  console.timeEnd();
+  console.log(result2);
+})();
+(function () {})();
