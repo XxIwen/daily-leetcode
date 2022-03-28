@@ -239,31 +239,6 @@
 - [322. 零钱兑换](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-04-322.md)
 - [518. 零钱兑换 II](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/leetcode/greedy/2022-03-04-518.md)
 
-#### 3. JavaScript 常用技巧
-
-- [手动实现 call、apply、bind](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/call-applay-bind.js)
-- [手动实现 ES5 继承](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/es5-inherit.md)
-- [手动实现 instanceof](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/instanceof.md)
-- [单例模式](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/singleton.md)
-- [数组乱序-洗牌算法](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/disorder.md)
-- [函数柯里化](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/currying.md)
-- [数组操作](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/array-operation.md)
-  - 使用 reduce 实现 map
-  - 使用 reduce 实现 filter
-  - 去重
-  - 排序
-  - 扁平
-  - 最值
-- [防抖](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/debounce.md)
-- [节流](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/throttle.md)
-- [异步循环打印](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/async-loop-print.md)
-- [基于 Promise 的 ajax 封装](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/promise-ajax.md)
-- [手动实现 JSONP](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/jsonp.md)
-- [图片懒加载](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/image-lazy-load.md)
-- [模拟实现 Promise](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/promise.md)
-- [EventEmitter](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/event-emitter.md)
-- [浅拷贝和深拷贝](https://github.com/xavier-9527/leetcode-daily/blob/master/basic-knowledge/javascript-special-subject/shallow-clone-deep-clone.md)
-
 ### 代码随想录
 
 #### 1. 数组
