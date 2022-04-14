@@ -23,7 +23,7 @@
 
 #### 1.1. 队列 & 栈
 
-1. [JZ9 用两个栈实现队列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ9.md)
+1. [用两个栈实现队列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ9.md)
 2. [JZ30 包含 min 函数的栈](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ30.md)
 3. [JZ31 栈的压入、弹出序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ31.md)
 4. [JZ59 滑动窗口的最大值](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ59.md)
@@ -157,7 +157,7 @@
 
 ##### 1.6. 栈和队列
 
-- [JZ9 用两个栈实现队列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ9.md)
+- [用两个栈实现队列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-11-JZ9.md)
 - [JZ30 包含 min 函数的栈](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ30.md)
 - [JZ31 栈的压入、弹出序列](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ31.md)
 - [JZ59 滑动窗口的最大值](https://github.com/xavier-9527/leetcode-daily/blob/master/daily/cn/jz-offer/2022-02-13-JZ59.md)
