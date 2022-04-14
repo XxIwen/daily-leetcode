@@ -23,7 +23,7 @@
 
 #### 1.1. 队列 & 栈
 
-- [用两个栈实现队列](/daily/cn/jz-offer/2022-02-11-JZ9.md)
+- [JZ9 用两个栈实现队列](/daily/cn/jz-offer/2022-02-11-JZ9.md)
 - [JZ30 包含 min 函数的栈](/daily/cn/jz-offer/2022-02-13-JZ30.md)
 - [JZ31 栈的压入、弹出序列](/daily/cn/jz-offer/2022-02-13-JZ31.md)
 - [JZ59 滑动窗口的最大值](/daily/cn/jz-offer/2022-02-13-JZ59.md)
@@ -87,6 +87,10 @@
 - [JZ75 字符流中第一个不重复的字符](/daily/cn/jz-offer/2022-03-03-JZ75.md)
 
 ## 三、 力扣
+
+#### 队列
+
+- [232. 用栈实现队列](/daily/cn/jz-offer/2022-02-11-JZ9.md)
 
 #### 数组
 
