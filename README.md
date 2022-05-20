@@ -95,7 +95,7 @@
 #### 数组
 
 - [1. 两数之和](/daily/cn/leetcode/array/2022-03-02-001.md)
-
+- [997. 找到小镇的法官](/daily/cn/leetcode/array/2022-05-20-997.md)
 #### 动态规划
 
 - [121. 买卖股票的最佳时机](/daily/cn/leetcode/dynamic-programming/2022-03-06-121.md)
